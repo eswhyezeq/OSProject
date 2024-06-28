@@ -81,12 +81,15 @@ Look at the TERMINAL tab. Run the following commands and provide the output here
 __.
 2. Run the command **cat /etc/passwd** . ***(1 mark)*** __<img src="./images/etc" width="70%">
 __.
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
-5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
-6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
-7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
-8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
+3. Run the command **df** . ***(1 mark)*** __<img src="./images/df.png" width="70%">__.
+4. Run the command **du** . ***(1 mark)*** __<img src="./images/du1.png" width="70%">
+<img src="./images/du2.png" width="70%">
+<img src="./images/du3.png" width="70%">__.
+5. Run the command **ls** . ***(1 mark)*** __<img src="./images/ls.png" width="70%">__.
+6. Run the command **ls -asl** . ***(1 mark)*** __<img src="./images/ls -asl.png" width="70%">__.
+7. Run the command **free -h** . ***(1 mark)*** __<img src="./images/free -h.png" width="70%">__.
+8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __<img src="./images/cat proc.png" width="70%">
+<img src="./images/cat proc2.png" width="70%">__.
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
