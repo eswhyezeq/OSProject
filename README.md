@@ -87,7 +87,7 @@ __.
 <img src="./images/du3.png" width="70%">__.
 5. Run the command **ls** . ***(1 mark)*** __<img src="./images/ls.png" width="70%">__.
 6. Run the command **ls -asl** . ***(1 mark)*** __<img src="./images/ls -asl.png" width="70%">__.
-7. Run the command **free -h** . ***(1 mark)*** __<img src="./images/free -h.png" width="70%">__.
+7. Run the command **free -h** . ***(1 mark)*** __<img src="./images/free -h .png" width="70%">__.
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __<img src="./images/cat proc.png" width="70%">
 <img src="./images/cat proc2.png" width="70%">__.
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
