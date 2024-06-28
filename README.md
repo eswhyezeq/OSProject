@@ -90,14 +90,23 @@ __.
 7. Run the command **free -h** . ***(1 mark)*** __<img src="./images/free -h .png" width="70%">__.
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __<img src="./images/cat proc.png" width="70%">
 <img src="./images/cat proc2.png" width="70%">__.
+
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
+
 10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
+
 11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
+
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
+
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
+
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
+
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
 
 ## Running your own container instance.
